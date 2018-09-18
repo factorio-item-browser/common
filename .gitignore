@@ -1,5 +1,4 @@
 /.idea
-/test/log
 /vendor
 
 /composer.lock
