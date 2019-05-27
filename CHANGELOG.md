@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 - 2019-05-27
+
+### Added
+
+- Interface `Constant` with some constant values from Factorio.
+
 ## 1.1.0 - 2019-03-12
 
 ### Added
