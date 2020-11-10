@@ -15,10 +15,10 @@ interface Constant
     /**
      * The name of the base mod always required as a dependency.
      */
-    const MOD_NAME_BASE = 'base';
+    public const MOD_NAME_BASE = 'base';
 
     /**
      * The name of the entity representing the thing you actually control.
      */
-    const ENTITY_NAME_CHARACTER = 'character';
+    public const ENTITY_NAME_CHARACTER = 'character';
 }
