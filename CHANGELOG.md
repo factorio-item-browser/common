@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.0 - 2020-11-10
+
+### Added
+
+- Interface `Defaults` with some default values used throughout the projects.
+
 ## 1.2.0 - 2019-05-27
 
 ### Added
