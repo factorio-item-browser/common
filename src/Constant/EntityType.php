@@ -51,4 +51,9 @@ interface EntityType
      * The entity is a resource to be mined by mining machines or pumps.
      */
     public const RESOURCE = ItemType::RESOURCE;
+
+    /**
+     * The entity is a technology to be researched.
+     */
+    public const TECHNOLOGY = 'technology';
 }
