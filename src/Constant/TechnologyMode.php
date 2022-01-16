@@ -5,20 +5,20 @@ declare(strict_types=1);
 namespace FactorioItemBrowser\Common\Constant;
 
 /**
- * The modes of the recipes.
+ * The modes of the technologies.
  *
  * @author BluePsyduck <bluepsyduck@gmx.com>
  * @license http://opensource.org/licenses/GPL-3.0 GPL v3
  */
-interface RecipeMode
+interface TechnologyMode
 {
     /**
-     * The recipe is used in normal mode.
+     * The technology is used in normal mode.
      */
     public const NORMAL = 'normal';
 
     /**
-     * The recipe is used in expensive mode.
+     * The technology is used in expensive mode.
      */
     public const EXPENSIVE = 'expensive';
 }

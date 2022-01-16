@@ -15,10 +15,15 @@ interface ItemType
     /**
      * The item is an actual item you can hold in the hand. Theoretically.
      */
-    public const ITEM = EntityType::ITEM;
+    public const ITEM = 'item';
 
     /**
      * The item is actually a fluid. Or a gas.
      */
-    public const FLUID = EntityType::FLUID;
+    public const FLUID = 'fluid';
+
+    /**
+     * The item is a resource to be mined by mining machines or pumps.
+     */
+    public const RESOURCE = 'resource';
 }
